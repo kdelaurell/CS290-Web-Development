@@ -1,4 +1,4 @@
-var APIkey = AIzaSyBFgRGseJesM46fFR4uF5OFeQViTldE-g8;
+
 document.addEventListener('DOMContentLoaded', bindButtons);
 
 function bindButtons(){
